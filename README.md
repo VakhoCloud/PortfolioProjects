@@ -1,2 +1,2 @@
 # PortfolioProjects
-basicly it's an MySQL project
+basicly it's a MySQL project
